@@ -1,4 +1,4 @@
 TwiCamo
 ========
 
-This is Viewer for twitter
+This is Viewer for twitter.
